@@ -1,3 +1,40 @@
 body{
     background-color: rgb(136, 175, 226);
 }
+h1{
+     color: rgb(226, 196, 150);
+     font-size: 48pt;
+     font-weight: bolder;
+}
+h2{
+    color: rgb(204, 204, 126);
+font-size: 32pt;
+margin-left: 10px;
+}
+h3{
+    color: rgb(119, 103, 81);
+font-size: 26pt;
+margin-left: 20px;
+}
+h4{
+    color: azure;
+font-size: 20pt;
+margin-left: 30px;
+}
+h5{
+    color: rgb(131, 113, 113);
+font-size: 14pt;
+margin-left: 40px;
+}
+h6{
+    color: rgb(112, 156, 142);
+font-size: 8pt;
+margin-left: 50px;
+}
+p{
+    color: rgb(0, 139, 95);
+font-size: 3pt;
+font-weight: lighter;
+margin-left: 60px;
+}
+
