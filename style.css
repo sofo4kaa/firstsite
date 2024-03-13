@@ -1,5 +1,9 @@
 body{
-    background-image:url(https://i.pinimg.com/736x/f4/cb/34/f4cb340321aea710b0b7b596669cc4e3.jpg): rgb(136, 175, 226);
+    background-image: url(https://i.pinimg.com/736x/f4/cb/34/f4cb340321aea710b0b7b596669cc4e3.jpg);
+    background-attachment: fixed;
+    background-repeat: calc;
+    background-size: cover;
+
 }
 h1{
      color: rgb(226, 196, 150);
