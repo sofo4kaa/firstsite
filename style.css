@@ -66,4 +66,14 @@ border: 5px solid #000000;
 border-radius: 30px;
      box-shadow: 10px 10px 10px #000000;
 }
-
+ul  {
+    background:#7c73a0;
+    list-style-type: square;
+    padding: 15px;
+    margin: 5px;
+}
+li {
+    background: white;
+    padding: 10px;
+    margin: 5px;
+}
