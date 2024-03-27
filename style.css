@@ -5,10 +5,10 @@ footer{
     background-color: #C1FF72;
 
 }
-.footer-coiumns{
+.footer-columns{
     display: flex;
 }
-.footer-coiumns{
+.footer-columns{
     flex:50% ;
     margin: 20px;
 }
