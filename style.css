@@ -90,7 +90,7 @@ main {
     }
     #menu1 ul li ul li{
     float: none;
-     width: 100px;   
+     width: 100%s;   
     }
      #menu1 ul li ul li a{
      display: block;
