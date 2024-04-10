@@ -19,7 +19,8 @@ footer {
 main {
     padding: 10px;
     background-color: white;
-    font-family: "Shadows Into Light"
+    font-family: "Shadows Into Light";
+    color: azure;
 }
 
 .post {
