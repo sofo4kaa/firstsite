@@ -6,6 +6,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>firstsite</title>
     <link rel="stylesheet" href="style.css">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
+
+    <script>
+      $(document).ready(function(){
+        $(".slider").bxSlider();
+      });
+    </script>
+
 </head>
 
 <body>
@@ -32,6 +43,12 @@
     </header>
 
     <main>
+        
+        <div class="slider">
+            <div>I am a slide.</div>
+            <div>I am another slide.</div>
+          </div> 
+
         <div class="post">
             <img height="250" src="https://www.funtastik.by/upload/iblock/2b4/2b44f06a54471bc6b948375e34d67b5b.jpg"
                 alt="Card image cap">
@@ -78,3 +95,13 @@
 </body>
 
 </html>
+
+
+
+
+
+
+
+
+
+
