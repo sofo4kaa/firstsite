@@ -2,6 +2,10 @@ header {
   background-color: #C1FF72;
 }
 
+#slider{
+  height: 350px;
+}
+
 footer {
   background-color: #C1FF72;
 
@@ -113,7 +117,7 @@ main {
   box-sizing: border-box;
   border-top: 1px solid #ffffff;
   color: white;
-  
+
 }
 
 h3 {
